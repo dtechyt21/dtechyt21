@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David
+- 👀 I’m interested in software automation, application development, and machine learning/artificial intelligence
+- 🌱 I’m currently learning HTLM, JS, Python, and any other little tips and tricks to better me as I go
+- 💞️ I’m looking to collaborate on shareing knowlede, code improvements, and better practices
+- 📫 How to reach me dtecht21@gmail.com
